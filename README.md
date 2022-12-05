@@ -18,3 +18,6 @@ Retail / E-commerce, Advertisements, Internet shops, Industry companies / Indust
 - Numpy
 - Matplotlib
 - Seaborn
+
+## 4. Results
+Machine learning models developed on PySpark show high reliability. In order to predict car price boosting algorithms demonstrate low root mean square error: Light Gradient Boosting - 1829.05 and Gradient Boosted Tree - 1975.37. In terms of computational time spent on operations LightGBM is much more efficient (around 6 times faster).
